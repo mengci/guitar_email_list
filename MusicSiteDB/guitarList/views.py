@@ -15,5 +15,8 @@ def index(request):
 
 	return HttpResponse(t.render(c))
 
-def save(request):
+def save_email(request):
+	if request.method == "POST":
+		# todo: handle the saving here 
+		pass
 	pass
