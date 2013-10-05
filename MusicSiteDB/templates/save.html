@@ -10,7 +10,7 @@
 
     <!-- Le styles -->
     <link href="{{ STATIC_URL }}bootstrap/css/bootstrap.css" rel="stylesheet">
-    <script src="{{ STATIC_URL }}js/jquery-1.10.2.min.js"></script>
+    <script src="{{ STATIC_URL }}js/jquery-2.0.2.min.js"></script>
     <script src="{{ STATIC_URL }}js/emailRegistration.js"></script>
     <style type="text/css">
       body {
@@ -44,6 +44,7 @@
         padding: 7px 9px;
       }
 
+
     </style>
     <link href="{{ STATIC_URL }}bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
 
@@ -58,16 +59,17 @@
 
     <div class="container">
         <h2 class="form-signin-heading">Please sign in</h2>
-        <input type="text" class="input-block-level" placeholder="Name">
-        <input type="text" class="input-block-level" placeholder="Email address">
-        <input type="text" class="input-block-level" placeholder="Source type">
-        <input type="text" class="input-block-level" placeholder="Country">
-        <input type="text" class="input-block-level" placeholder="State">
-        <input type="text" class="input-block-level" placeholder="City">
+        <input id="name" type="text" class="input-block-level" placeholder="Name">
+        <input id="email" type="text" class="input-block-level" placeholder="Email address">
+        <input id="source" type="text" class="input-block-level" placeholder="Source type">
+        <input id="country" type="text" class="input-block-level" placeholder="Country">
+        <input id="state" type="text" class="input-block-level" placeholder="State">
+        <input id="city" type="text" class="input-block-level" placeholder="City">
 
         <button id="save-email-btn" class="btn btn-large btn-primary" type="submit">Sign in</button>
-
+        <div id="save-ack"></div>
     </div> <!-- /container -->
+
 
     <!-- Le javascript
     ================================================== -->

@@ -10,6 +10,7 @@ class Email(models.Model):
 	country = models.CharField(max_length=200)
 	state = models.CharField(max_length=200)
 	city = models.CharField(max_length=200)
+	created_date = models.DateTimeField('date published')
 
 	class Meta:
 		db_table = "emails"
