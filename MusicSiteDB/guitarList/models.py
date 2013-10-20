@@ -10,7 +10,12 @@ class Email(models.Model):
 	country = models.CharField(max_length=200)
 	state = models.CharField(max_length=200)
 	city = models.CharField(max_length=200)
-	created_date = models.DateTimeField('date published')
+	created_date = models.DateTimeField('date published', auto_now=True)
+
+	def __unicode__(self):
+		return self.email
 
 	class Meta:
 		db_table = "emails"
+		ordering = ["email_id"]
+
