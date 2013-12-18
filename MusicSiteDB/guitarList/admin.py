@@ -8,5 +8,6 @@ class EmailAdmin(admin.ModelAdmin):
     ]
 
 	list_display = ('email_id', 'name', 'email', 'city', 'state', 'country', 'created_date')
+	search_fields = ['name', 'email', 'source_type']
 
 admin.site.register(Email, EmailAdmin)

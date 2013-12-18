@@ -18,4 +18,3 @@ class Email(models.Model):
 	class Meta:
 		db_table = "emails"
 		ordering = ["email_id"]
-
