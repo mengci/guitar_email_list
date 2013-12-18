@@ -1,0 +1,523 @@
+Jon Div,null,teacher,America,Alabama,Auburn
+Lewis Moore,lewis.moore@gmail.com,teacher,America,Alabama,Auburn
+John Kitchen,monsternuts26@yahoo.com,teacher,America,Alabama,Birmingham
+Robby Ryland,robby@robbyrylandguitarmusic.com,teacher,America,Alabama,Birmingham
+Tony Middleton,tonymiddletonguitarstudio@gmail.com,teacher,America,Alabama,Birmingham
+Eric Gay,ericjgay@gmail.com,teacher,America,Alabama,Birmingham
+Larry Brown,cobblane@bellsouth.net,teacher,America,Alabama,Birmingham
+Blake Davis,Blakedavis93@gmail.com,teacher,America,Alabama,Birmingham
+Paul Payne,paulaxplyr@aol.com,teacher,America,Alabama,Birmingham
+Jon Reed,jonreedguitar@gmail.com,teacher,America,Alabama,Birmingham
+Steve Rayborn,steevstar@aol.com,teacher,America,Alabama,Birmingham
+Zac Sullivan,fretzeroguitar@gmail.com,teacher,America,Alabama,Birmingham
+Mark Nuss,lochnussmonster@yahoo.com,teacher,America,Alabama,Birmingham
+Paul Hicks,paul@harpandguitar.com,teacher,America,Alabama,Birmingham
+Paul Moore,studiop@bellsouth.net,teacher,America,Alabama,Birmingham
+Dennis Brock,dennis@newsongschool.net,teacher,America,Alabama,Huntsville
+Mike McAlister,mike@studio144.net,teacher,America,Alabama,Huntsville
+Jonathan Kane,jonlazar2005@yahoo.com,teacher,America,Alabama,Huntsville
+John Carwile,carwilej34@hotmail.com,teacher,America,Alabama,Huntsville
+G. Patrick Bryant,gpb0216@gmail.com,teacher,America,Alabama,Huntsville
+Emily Jones,efjones80@charter.net,teacher,America,Alabama,Huntsville
+James McCutcheon,msphynx45@hotmail.com,teacher,America,Alabama,Huntsville
+Gerry Gambino,gerrydgambino@gmail.com,teacher,America,Alabama,Mobile
+Brian Roughton,brianroughton@gmail.com,teacher,America,Alabama,Montgomery
+Tommy Sorrells,tommysorrels@bellsouth.net,teacher,America,Alabama,Tuscaloosa
+Luc Atencio,luc_atencio@hotmail.com,teacher,America,Alaska,Anchorage
+Rick Cyge,rcyge@cox.net,teacher,America,Arizona,Sedona
+Bernard Morrow,morrow.bernard@yahoo.com,teacher,America,Arizona,Sedona
+George Schmidt,george_schmidt@yahoo.com,teacher,America,Arizona,Sedona
+Aaron Wood,redsteveworld@yahoo.com,teacher,America,Arizona,Phoenix
+Manu Aube,jeanclaudeduce33@hotmail.com,teacher,America,Arizona,Phoenix
+Adam Esrick,aesrick88@gmail.com,teacher,America,Arizona,Phoenix
+Bob Hermes,hermesstudio@cox.net,teacher,America,Arizona,Phoenix
+Kimberly Steele,guitarmom1@gmail.com,teacher,America,Arizona,Phoenix
+Paul Pickering,gb1982@gmail.com,teacher,America,Arizona,Phoenix
+Dan Wilson,jdandreaman@aol.com,teacher,America,Arizona,Phoenix
+Kurt K,null,teacher,America,Arizona,Phoenix
+Ed West,edwesth@aol.com,teacher,America,Arizona,Phoenix
+John Chavez,phxbluesman@yahoo.com,teacher,America,Arizona,Phoenix
+Roger Paull,rogerpaull@cox.net,teacher,America,Arizona,Phoenix
+Glen West,info@guitarlessonsphoenix.com,teacher,America,Arizona,Phoenix
+Rod Bre,phoenixguitarlesson@gmail.com,teacher,America,Arizona,Phoenix
+Christopher Faustina,chris.faustina@gmail.com,teacher,America,Arizona,Phoenix
+Tommy Gibbons,triplerpool@gmail.com,teacher,America,Arizona,Phoenix
+Robyn Harris,musicalsurprise@yahoo.com,teacher,America,Arizona,Phoenix
+Alden Powers,alden@aldenpowers.com,teacher,America,Arizona,Phoenix
+David Van Schoyck,vanschoyck@earthlink.net,teacher,America,Arizona,Phoenix
+Chris Nastri,chrisnastri@gmail.com,teacher,America,Arizona,Phoenix
+Gerry DeLaTorre,gerrydlt@musicfortheages.org,teacher,America,Arizona,Phoenix
+Don Maloney,don@donmaloney.com,teacher,America,Arizona,Phoenix
+Jonathon Oden,klostudio@cox.net,teacher,America,Arizona,Phoenix
+Ron Black,ronb@musiconastring.org,teacher,America,Arizona,Phoenix
+Rene Chacon,iamme63@lycos.com,teacher,America,Arizona,Phoenix
+Keith Jandacek,lownote@cox.net,teacher,America,Arizona,Phoenix
+Ty Morgan,contact@eastmesaguitarlessons.com,teacher,America,Arizona,Phoenix
+Chris Forenz,guitar@valleymusiclessons.com,teacher,America,Arizona,Phoenix
+Robert Arpino,arpino1@cox.net,teacher,America,Arizona,Phoenix
+Lou Villanova,shagfield2000@yahoo.com,teacher,America,Arizona,Phoenix
+Gal Drimmer,guitarg@qwest.net,teacher,America,Arizona,Phoenix
+Saul Levine,saultee@juno.com,teacher,America,Arizona,Prescott
+Joshua Brown,info@allegroschoolofmusic.net,teacher,America,Arizona,Tucson
+Dustin Jones,dustinjonesguitar@gmail.com,teacher,America,Arizona,Tucson
+Mike Hodges,mhodge523@yahoo.com,teacher,America,Arizona,Tucson
+Paul Webner,tallpaulband@gmail.com,teacher,America,Arizona,Tucson
+Gerry Ptak,gerryptak@gmail.com,teacher,America,Arizona,Tucson
+Spencer Snodgrass,scs.snodgrass@yahoo.com,teacher,America,Arizona,Tucson
+Jon Rittmann,jon@jonrittmann.com,teacher,America,Arizona,Tucson
+Nancy Cowan,nancy@nancycowan.com,teacher,America,Arizona,Tucson
+Bill Ganz,bganz1@comcast.net,teacher,America,Arizona,Tucson
+Ryan Green,ryan@ryandavidgreen.com,teacher,America,Arizona,Tucson
+Steve Cano,redmoonmusicstudio@hotmail.com,teacher,America,Arizona,Yuma
+Deanna Mitchell,deanna@deannamitchellmusic.com,teacher,America,Arkansas,Fayetteville
+Jeff Perkins,jeff@soundeluxestudios.com,teacher,America,Arkansas,Fayetteville
+Steve Kelsey,stsvekelseytunes@gmail.com,teacher,America,Arkansas,Fayetteville
+Vincent Tyler,vincenttylerpsychotic@yahoo.com,teacher,America,Arkansas,Fort Smith
+Mike Leach,mikedotcom@rock.com,teacher,America,Arkansas,Fort Smith
+Bryan Litchford,m7studio@msn.com,teacher,America,Arkansas,Fort Smith
+Greg Arnold,garnold@backbeatmusic.com,teacher,America,Arkansas,Jonesboro
+Bill Osteen,billosteen@yahoo.com,teacher,America,Arkansas,Little Rock
+Jag Jagitsch,jag@jagshouse.com,teacher,America,Arkansas,Little Rock
+Darrell Adams,singerc_w@yahoo.com,teacher,America,Arkansas,Little Rock
+Nathan Eddy,nathankeddy88@yahoo.com,teacher,America,Arkansas,Little Rock
+Jason Priest,jason@littlerockjams.com,teacher,America,Arkansas,Little Rock
+Dave Nielsen,finartsdir@aol.com,teacher,America,Arkansas,Little Rock
+Dan Bingham,dahubby@gmail.com,teacher,America,California,Bakersfield
+Steven Laity,stevemusiclessons@hotmail.com,teacher,America,California,Bakersfield
+Randall Horne,fenderho@hotmail.com,teacher,America,California,Bakersfield
+Carlos Trujillo,Guitarlessons1985@hotmail.com,teacher,America,California,Bakersfield
+David Gamble,dwgmaestro@bak.rr.com,teacher,America,California,Bakersfield
+Jake Nolen,jacobnolen@gmail.com,teacher,America,California,Chico
+Jamey Smith,jamey@jameysmithonline.com,teacher,America,California,Chico
+Russell Hallock,russell.hallock@gmail.com,teacher,America,California,Chico
+Michael Berkowitz,mcberkowitz@comcast.net,teacher,America,California,Fresno
+Jason Healy,everynone84@yahoo.com,teacher,America,California,Fresno
+Stephen Fransway,stevethefrans@gmail.com,teacher,America,California,Fresno
+Matthew Moulton,mattmfmolten@ymail.com,teacher,America,California,Fresno
+Daniel G.,sonic-wizard@hotmail.com,teacher,America,California,Fresno
+Will Bollman,willbollman75@gmail.com,teacher,America,California,Fresno
+Kristin Kirby,kkirby@humboldt1.com,teacher,America,California,Humboldt County
+Jazz Meulstee,www.jordanm27@msn.com,teacher,America,California,Inland Empire
+Jonathan Reese,lnelson480@student.mjsc.edu,teacher,America,California,Inland Empire
+William Moynihan,william_pg_moynihan@yahoo.com,teacher,America,California,Inland Empire
+Patrick Amtrin, Sr.,LearnGuitar@Live.com,teacher,America,California,Inland Empire
+Jeff Brent,GuitarLessonsRiversideCA@yahoo.com,teacher,America,California,Inland Empire
+Michael Cook,michaelcookguitar@gmail.com,teacher,America,California,Inland Empire
+Mark Robinson,mrobinson_playguitarusa@msn.com,teacher,America,California,Inland Empire
+Mike Gross,tvxpunk@aol.com,teacher,America,California,Inland Empire
+Aaron Glines,AaronRetro@yahoo.com,teacher,America,California,Inland Empire
+Todd McKernan,toddmckernan@yahoo.com,teacher,America,California,Inland Empire
+Scott Freeman,sctt_freem1@yahoo.com,teacher,America,California,Inland Empire
+Phillip De La O,delaopm@gmail.com,teacher,America,California,Inland Empire
+Alvin Castro,alcastrojrmusic@gmail.com,teacher,America,California,Inland Empire
+Chris Butter,butter@eastvaleguitar.com,teacher,America,California,Inland Empire
+Brett Cohen,brettcohenmusic@gmail.com,teacher,America,California,Inland Empire
+Amy Hite,Amy_hite@yahoo.com,teacher,America,California,Inland Empire
+Mike Wayne,jradford@verizon.net,teacher,America,California,Inland Empire
+Clare Atchley,catchley@ca.thomasaquinas.edu,teacher,America,California,Inland Empire
+Pebber Brown,pebberbrown@gmail.com,teacher,America,California,Inland Empire
+Brian Kaminskas,musiclessonsriverside@gmail.com,teacher,America,California,Inland Empire
+Steven Steward,theninjasteve@gmail.com,teacher,America,California,Inland Empire
+Mark Stover,mark@riversideguitarlessons.com,teacher,America,California,Inland Empire
+Tony Burnett,info@tonyburnett.com,teacher,America,California,Inland Empire
+Scott Willson,sewillson590@gmail.com,teacher,America,California,Inland Empire
+Justin Walker,justindwalker87@gmail.com,teacher,America,California,Los Angeles
+Barbara Leoni,leonibarbara@yahoo.com,teacher,America,California,Los Angeles
+Glenn Stiglic,glenntunes@verizon.net,teacher,America,California,Los Angeles
+Rodrigo Rodriguez,rodrigochitl@aol.com,teacher,America,California,Los Angeles
+James Kee,James@lbguitarlessons.com,teacher,America,California,Los Angeles
+Steve Mindick,guitarwithsteve@yahoo.com,teacher,America,California,Los Angeles
+Micah Mata,mmata@lessonsthatrock.com,teacher,America,California,Los Angeles
+Mark Fitchett,mrfrets@aol.com,teacher,America,California,Los Angeles
+Kyle Williams,kyle@northhollywoodguitarlessons.com,teacher,America,California,Los Angeles
+Louis de Fusco,GPWS@mail.com,teacher,America,California,Los Angeles
+Ricky Katz,learnguitarwithricky@gmail.com,teacher,America,California,Los Angeles
+Hal Oppenheim,haltracks@sbcglobal.net,teacher,America,California,Los Angeles
+Dash Kirby,dash@kirbycreative.com,teacher,America,California,Los Angeles
+David Immerman,anchorandcrown@gmail.com,teacher,America,California,Los Angeles
+Stephen Kamada,skguitar@sonic.net,teacher,America,California,Los Angeles
+Jody Whitesides,gitteach@jodywhitesides.com,teacher,America,California,Los Angeles
+Mike Thompson,MTGuitar@gmail.com,teacher,America,California,Los Angeles
+Ed Finn,edfinn@edfinn.com,teacher,America,California,Los Angeles
+James Zota Baker,jameszotabaker@yahoo.com,teacher,America,California,Los Angeles
+Kristian Attard,kristian_attard@yahoo.com.au,teacher,America,California,Los Angeles
+Randy Torno,randy@musiclessonsource.com,teacher,America,California,Los Angeles
+Oscar Jordan,vvblues@yahoo.com,teacher,America,California,Los Angeles
+Julian Rodriguez,abstractart1@gmail.com,teacher,America,California,Los Angeles
+Michael Lis,lismichael@yahoo.com,teacher,America,California,Los Angeles
+Phillip Alcazar,dancingonstrings@gmail.com,teacher,America,California,Los Angeles
+Bill Wiseman,wiseguyzot@aol.com,teacher,America,California,Los Angeles
+John Scaglione,californiasongs@cs.com,teacher,America,California,Los Angeles
+Justin Smolian,jsmolian@yahoo.com,teacher,America,California,Los Angeles
+Jerry Acosta,lafolia@earthlink.net,teacher,America,California,Los Angeles
+Brent Sewell,brentsewell@gmail.com,teacher,America,California,Los Angeles
+Craig Beck,Craig423@ca.rr.com,teacher,America,California,Los Angeles
+Timothy Helisek,tim@timhelisek.com,teacher,America,California,Los Angeles
+Daniel Brownfield,danielbrownfield@yahoo.com,teacher,America,California,Los Angeles
+John Khula,johnkhula@yahoo.com,teacher,America,California,Los Angeles
+Jason Gutierrez,jasonguitar09@gmail.com,teacher,America,California,Los Angeles
+Anto Baharian,a.baharian@gmail.com,teacher,America,California,Los Angeles
+Paula Ramirez,pcr@ghmusicgroup.com,teacher,America,California,Los Angeles
+Eddie Thrash,ethrash@sbcglobal.net,teacher,America,California,Los Angeles
+Vince White,vince9981@aol.com,teacher,America,California,Los Angeles
+Perfecto De Castro,perfectodecastro@yahoo.com,teacher,America,California,Los Angeles
+Mckay Tebbs,tebbs@usc.edu,teacher,America,California,Los Angeles
+Sam Cogburn,sd.cogburn@gmail.com,teacher,America,California,Los Angeles
+Joe Gamble,joe@joegamble.com,teacher,America,California,Los Angeles
+Angelo Roldan,iteachguitar4u@gmail.com,teacher,America,California,Los Angeles
+Monica Cremona,monickach@yahoo.com,teacher,America,California,Los Angeles
+David Vez,guitarteacher@hotmail.com,teacher,America,California,Los Angeles
+Ruben Ramos,ruben@rubenramos.net,teacher,America,California,Los Angeles
+Jim Warino,jpwarino@yahoo.com,teacher,America,California,Los Angeles
+Angelo Roldan,anroldan@gmail.com,teacher,America,California,Los Angeles
+Greg Erba,gregoryerba@yahoo.com,teacher,America,California,Los Angeles
+Luke Thomas,lukethom@gmail.com,teacher,America,California,Los Angeles
+Adam Cotton,algodon11@gmail.com,teacher,America,California,Los Angeles
+David Chavez,guitarteacher@hotmail.com,teacher,America,California,Los Angeles
+David Ellis,DEllisgtr@aol.com,teacher,America,California,Los Angeles
+Fred Sokolow,sokolowmus@aol.com,teacher,America,California,Los Angeles
+Dr. Seth Greenberg,greenbergschoolofmusic@gmail.com,teacher,America,California,Los Angeles
+Tony Rhambo,bebopblue@ca.rr.com,teacher,America,California,Los Angeles
+Cory Morgenstern,soular@aol.com,teacher,America,California,Los Angeles
+Edwin Itoh,ivbud@aol.com,teacher,America,California,Los Angeles
+Shane Gibson,lessons@shaneguitar.com,teacher,America,California,Los Angeles
+Aeon Dream,aeon@flash.net,teacher,America,California,Los Angeles
+Ryan Richko,ryanruin@gmail.com,teacher,America,California,Los Angeles
+John Huldt,johnhuldt@gmail.com,teacher,America,California,Los Angeles
+Chris Murphy,chrismurphyviolin@mac.com,teacher,America,California,Los Angeles
+Michael Spreitzer,nolovelost242@yahoo.com,teacher,America,California,Los Angeles
+Todd Washington,toddisms@yahoo.com,teacher,America,California,Los Angeles
+Stephen Maxwell,Catdraggin@yahoo.com,teacher,America,California,Los Angeles
+David Nielsen,david@soundsourcery.com,teacher,America,California,Los Angeles
+Leon Rubenhold,rubylee99@hotmail.com,teacher,America,California,Los Angeles
+Mark Kovar,kovar@westsideguitardojo.com,teacher,America,California,Los Angeles
+chris collins,guitardiamond@gmail.com,teacher,America,California,Marin County
+Jason Calderon,jason@day3.net,teacher,America,California,Merced
+Derek Larime,djlarime@gmail.com,teacher,America,California,Merced
+Sean Fonda,seanfondamusic@yahoo.com,teacher,America,California,Modesto
+Matt Lazcano,mattlazcano@gmail.com,teacher,America,California,Modesto
+Jonathan Meek,jonathan.t.meek@gmail.com,teacher,America,California,Modesto
+James Mills,jmills2680@yahoo.com,teacher,America,California,Modesto
+Wolfgang Burwell,7thviking@live.com,teacher,America,California,Modesto
+Lester Mitchell,Trivium662@aol.com,teacher,America,California,Modesto
+Mark Hamrock,hamrockmusic@cox.net,teacher,America,California,Orange County
+Joey Mendez,themendezjoey@gmail.com,teacher,America,California,Orange County
+George Margo,margot9230@gmail.com,teacher,America,California,Orange County
+Joe Campbell,joesguitarlessons@hotmail.com,teacher,America,California,Orange County
+Chris Phillips,djchrispy@gmail.com,teacher,America,California,Orange County
+Joseph Harter,acoustic_cloud@sbcglobal.net,teacher,America,California,Orange County
+Jules Hamland,my.lessons@rightnotesmusic.com,teacher,America,California,Palm Springs
+Tyler Pendleton,tyler.maxwell.pendleton@gmail.com,teacher,America,California,Palm Springs
+George Christian,hotguitarz@hotmail.com,teacher,America,California,Palm Springs
+Peter Evans,statuspje@yahoo.com,teacher,America,California,Palm Springs
+Tim Loomis,tdloomis@gmail.com,teacher,America,California,Redding
+Jon Allasia,musicforu@netzero.com,teacher,America,California,Tahoe City
+Chris Alexander,c.l.alexander@att.net,teacher,America,California,Tahoe City
+Aaron Asghari,aaron.asghari@gmail.com,teacher,America,California,Sacramento
+Jim Vacca,pgarcia43@gmail.com,teacher,America,California,Sacramento
+Greg Williams,gregorwilliams@comcast.net,teacher,America,California,Sacramento
+Joe Lev,JLev6821@aol.com,teacher,America,California,Sacramento
+Elizabeth Busch,info@elizabethguitarist.com,teacher,America,California,Sacramento
+Demetri Besougloff,demetri@acdcguitar.com,teacher,America,California,Sacramento
+Michael McKinney,myrockband1955@yahoo.com,teacher,America,California,Sacramento
+Gio Allen,gio@magicearmusic.com,teacher,America,California,Sacramento
+Sam Hayne,Venegas_Felipe@yahoo.com,teacher,America,California,Sacramento
+Atlee Gillette,atgee3@gmail.com,teacher,America,California,Sacramento
+Randall Padilla,randall_padilla@yahoo.com,teacher,America,California,Sacramento
+Matthew Grasso,mysticalsounds@yahoo.com,teacher,America,California,Sacramento
+Nick Weiss,nickweissmusic@gmail.com,teacher,America,California,San Diego
+Jack Kaye,archrivalrocks@yahoo.com,teacher,America,California,San Diego
+Kevin Paluzzi,paluzzik@aol.com,teacher,America,California,San Diego
+Matteo Miller-Nicolato,matteo@guitarlessonsinsandiego.com,teacher,America,California,San Diego
+Daniel Page,danguitar@mac.com,teacher,America,California,San Diego
+Robert Latimer,sdguitarist@sbcglobal.net,teacher,America,California,San Diego
+Steven Nichols,windcross2@cox.net,teacher,America,California,San Diego
+Nik Mathews,elniko970@gmail.com,teacher,America,California,San Diego
+Derek Dossey,doss619@yahoo.com,teacher,America,California,San Diego
+Nikola Milic,euroshredder@yahoo.com,teacher,America,California,San Diego
+Scot Taber,sandiegoguitarlessons@yahoo.com,teacher,America,California,San Diego
+Jason Martin,atomicbob3069@hotmail.com,teacher,America,California,San Diego
+David Alzofon,composeyourselfmethod@gmail.com,teacher,America,California,San Diego
+Patrick Hinke,soundsinspace08@gmail.com,teacher,America,California,San Diego
+Tom Smerk,tom@tomsmerk.com,teacher,America,California,San Diego
+Daniel Scott,bassjockey@gmail.com,teacher,America,California,San Diego
+Gene Rochambeau,generochambeau@yahoo.com,teacher,America,California,San Diego
+Devin Whipple,Nerdevin@hotmail.com,teacher,America,California,San Diego
+Michelle Rhea,rheazone@cox.net,teacher,America,California,San Diego
+Gregory Gibson,cyclingtunes@gmail.com,teacher,America,California,San Diego
+Maria Staump,maria@staump.com,teacher,America,California,San Diego
+Glenn Pudick,glennpudick@yahoo.com,teacher,America,California,San Diego
+Derek Larime,djlarime@yahoo.com,teacher,America,California,San Diego
+Aaron Remley,youplayguitar@hotmail.com,teacher,America,California,San Diego
+John St. Claire,jstclaire1@yahoo.com,teacher,America,California,San Diego
+Chris Montgomery,seamont@hotmail.com,teacher,America,California,San Diego
+Pete Farry,Pete_f@cox.net,teacher,America,California,San Diego
+Jerry McCann,jerrymccann@cox.net,teacher,America,California,San Diego
+Austin Mursinna,austinmursinna@gmail.com,teacher,America,California,San Diego
+Louis De Fusco,guitargiol@yahoo.com,teacher,America,California,San Diego
+Mike Slayen,mikeslayen@aol.com,teacher,America,California,San Diego
+Daniel Leonhard,verygood8888@hotmail.com,teacher,America,California,San Diego
+John Simons,john@simonsbass.com,teacher,America,California,San Diego
+Rich Kullmann,rkguitarist@gmail.com,teacher,America,California,San Diego
+John Pappas,johnepappas@gmail.com,teacher,America,California,San Diego
+Jesse Wallis,jessewallis@gmail.com,teacher,America,California,San Diego
+Mark Bacilla,mark.bacilla@cox.net,teacher,America,California,San Diego
+Nick Flores,saisixstring@musician.org,teacher,America,California,San Diego
+Johnny Vernazza,johnnyv@johnnyv.net,teacher,America,California,San Diego
+Nate Donnis,n8donnis@yahoo.com,teacher,America,California,San Diego
+Jan Rivera,info@jrprivatestudio.com,teacher,America,California,San Diego
+Seth Hollander,Sethmetal@yahoo.com,teacher,America,California,San Diego
+Joseph Vincent,josephvincentguitar@gmail.com,teacher,America,California,San Diego
+Navid Khorram,navi@san.rr.com,teacher,America,California,San Diego
+Bob Balch,playthisriff@gmail.com,teacher,America,California,San Diego
+Richard Welty,playthisriff@gmail.com,PowayGuitarandBassLessons@gmail.com,teacher,America,California,San Diego
+Glenn Sutton,glennsutton@guitarlessonspoway.com,teacher,America,California,San Diego
+Luis Castillo,castillodiazdeleon@hotmail.com,teacher,America,California,San Diego
+Rick Remender,rickofitall@gmail.com,teacher,America,California,San Diego
+Salvador Villanueva,salvadorsonante@gmail.com,teacher,America,California,San Diego
+D.C. Hathaway,dchathawaymusic@cox.net,teacher,America,California,San Diego
+David Gizzarelli,dvdgzzrll@msn.com,teacher,America,California,San Francisco
+Nathan Williams,ironvegan@yahoo.com,teacher,America,California,San Francisco
+Sean Smith,seansmith525@gmail.com,teacher,America,California,San Francisco
+Jonathan Hesbol,johnny6string@msn.com,teacher,America,California,San Francisco
+Jeff Feldman,Jeff@CreativeSparkGuitar.com,teacher,America,California,San Francisco
+Roger Henry,teachguitar@yahoo.com,teacher,America,California,San Francisco
+Michael Beach,iambeacho@gmail.com,teacher,America,California,San Francisco
+Robert Nance,rsnance@gmail.com,teacher,America,California,San Francisco
+Matt Bacon,Baconme3@aol.com,teacher,America,California,San Francisco
+Jay Skyler,RockGuitarLessons@gmail.com,teacher,America,California,San Francisco
+Brendon Randall-Myers,guerofalso@gmail.com,teacher,America,California,San Francisco
+Daniel Alvarenga,musicofthecosmos@gmail.com,teacher,America,California,San Francisco
+Enrique Rojas,enriquerojas15@hotmail.com,teacher,America,California,San Francisco
+David Jenkins,DLJenkins49@hotmail.com,teacher,America,California,San Francisco
+Mark Newstetter,mark@guitarpixel.com,teacher,America,California,San Francisco
+Tyler Shusterman,tshusterman@mac.com,teacher,America,California,San Francisco
+Luke Mayer,mayer7000@gmail.com,teacher,America,California,San Francisco
+Ramon Fermin,ramonfermin.guitar@gmail.com,teacher,America,California,San Francisco
+Matthew Linder,mholmeslinder@Gmail.com,teacher,America,California,San Francisco
+Rob Grant,robbieness@aol.com,teacher,America,California,San Francisco
+Bruno Pelletier-Bacquaert,brunopelbac@yahoo.com,teacher,America,California,San Francisco
+David Serotkin,info@davidserotkin.com,teacher,America,California,San Francisco
+Hale Fulton,halefulton@gmail.com,teacher,America,California,San Francisco
+Alex Flores,alex@floresguitarinstruction.com,teacher,America,California,San Francisco
+Robert Fumo,robert@elfcorps.com,teacher,America,California,San Francisco
+Mike Fletcher,frogsurf@earthlink.net,teacher,America,California,San Francisco
+Andi Lokin,audioth@sbcglobal.net,teacher,America,California,San Francisco
+Aaron Asghari,aaron.asghari@gmail.com,teacher,America,California,San Francisco
+John-Paul Lepeley,lepeleyacademy@gmail.com,teacher,America,California,San Francisco
+Joel Cornell,joelsglessons@gmail.com,teacher,America,California,San Francisco
+Dylan Gorenberg,dylangorenberg@comcast.net,teacher,America,California,San Francisco
+Heather Kerrihard,exitmusichoney@yahoo.com,teacher,America,California,San Francisco
+Tony Frye,tony@dratironmusic.com,teacher,America,California,San Francisco
+Joshua Downer,akajoshd@gmail.com,teacher,America,California,San Francisco
+Alex Plam,alex@alexplam.com,teacher,America,California,San Francisco
+Kay Eskenazi,service@WomensHeartsAndHands.com,teacher,America,California,San Francisco
+Paul Mehling,pazzo@hcsf.com,teacher,America,California,San Francisco
+Evan Harrar,evanh@gypsyflamenco.com,teacher,America,California,San Francisco
+Pete Madsen,buzzyfrets@yahoo.com,teacher,America,California,San Francisco
+Chris Lee,hypnotrigger2@hotmail.com,teacher,America,California,San Francisco
+Marc Gantz,mjgantz@comcast.net,teacher,America,California,San Francisco
+Michael Healy,Morerights@yahoo.com,teacher,America,California,San Francisco
+Tim Brown,flamenco4me2@yahoo.com,teacher,America,California,San Francisco
+Jean Szach,jean-lucszach5@hotmail.com,teacher,America,California,San Francisco
+Kevin Russell,krbr177@aol.com,teacher,America,California,San Francisco
+Paul Gruen,alhanati@aol.com,teacher,America,California,San Francisco
+Dan Koval,koval_guitar@yahoo.com,teacher,America,California,San Francisco
+Keith Silverman,andrewksearch@gmail.com,teacher,America,California,San Francisco
+Kevin North,kevy_nova@yahoo.com,teacher,America,California,San Francisco
+Arthur Michelson,artlm2002@yahoo.com,teacher,America,California,San Francisco
+John Jordan,jacejmusic@gmail.com,teacher,America,California,San Francisco
+Alison White,white.alison@gmail.com,teacher,America,California,San Francisco
+Abe Taylor,spock23307@aol.com,teacher,America,California,San Francisco
+Ken Brown,guitarkenbrown@att.net,teacher,America,California,San Francisco
+Zen Zenith,zentzenith@gmail.com,teacher,America,California,San Francisco
+Aidan Young,aidan@riekes.org,teacher,America,California,San Francisco
+Devin Twitty,devin.john@sbcglobal.net,teacher,America,California,San Francisco
+Tom LaRatta,thomaslaratta@yahoo.com,teacher,America,California,San Francisco
+Tom Caprino,tcaprino@hotmail.com,teacher,America,California,San Francisco
+John Lawlor,fretmaster@ymail.com,teacher,America,California,San Francisco
+Olivier Mesnier,omesnier@gmail.com,teacher,America,California,San Francisco
+Phil Johnson,phil@roadsideattraction.com,teacher,America,California,San Francisco
+Ken Wanlass,desperadoken@rocketmail.com,teacher,America,California,San Francisco
+Justin Martinez,jdmartin100@hotmail.com,teacher,America,California,San Francisco
+Nathan Towne,nathan.towne@gmail.com,teacher,America,California,San Luis Obispo
+Manny Mestas,mestasmanny@hotmail.com,teacher,America,California,San Luis Obispo
+Jim Bachman,kbachman466@charter.net,teacher,America,California,San Luis Obispo
+James Bachman,Bachmangtr@hotmail.com,teacher,America,California,San Luis Obispo
+Andrew Rubin,andrew.rubin1@yahoo.com,teacher,America,California,San Luis Obispo
+Tommy Matthews,sc_bum777@yahoo.com,teacher,America,California,San Luis Obispo
+Matthew Hathaway,hathawaymatt@hotmail.com,teacher,America,California,San Luis Obispo
+Chris Anstead,chrisanstead@yahoo.com,teacher,America,California,San Luis Obispo
+Justin Martinez,jdmartin100@hotmail.com,teacher,America,California,San Luis Obispo
+Mark Covey,coveyguitar@gmail.com,teacher,America,California,Santa Barbara
+Scott Willson,scottnofx142@gmail.com,teacher,America,California,Santa Barbara
+Alex Briner,abriner@umail.ucsb.edu,teacher,America,California,Santa Barbara
+Steve Stockmal,lessons@drstix.com,teacher,America,California,Santa Barbara
+Billy Stewart,Guitargarage@earthlink.net,teacher,America,California,Santa Barbara
+John Lyle,john@johnlyle.net,teacher,America,California,Santa Barbara
+Dan Bos,dan@truetoneproductions.com,teacher,America,California,Santa Barbara
+David Haq,david_haq@hotmail.com,teacher,America,California,Santa Barbara
+John Sherry,johnjsherry@mac.com,teacher,America,California,Santa Cruz
+Andrew Nelson,andrewrobertnelson@gmail.com,teacher,America,California,Santa Cruz
+Martin Shears,martin@martinshears.com,teacher,America,California,Santa Cruz
+Clancy Ferrill,gtarczar@yahoo.com,teacher,America,California,Stockton
+Andrew Verdoes,theband@blueafuse.com,teacher,America,California,Stockton
+Adam Giacopuzzi,ryan@ditchroadrecords.com,teacher,America,California,Ventura County
+David Bates,davebates723@gmail.com,teacher,America,California,Ventura County
+Ryan Canestro,ryan@ditchroadrecords.com,teacher,America,California,Ventura County
+Richard Mihalovits,richard.mihalovits@gmail.com,teacher,America,California,Ventura County
+Bil McCombe,bilmccombe@yahoo.com,teacher,America,California,Ventura County
+Kevin Callister,info@connectthedotsmusic.com,teacher,America,California,Ventura County
+Steven Rosenblum,steven@roseinbloomguitar.com,teacher,America,California,Ventura County
+Richard Mihalovits,richard.mihalovits@gmail.com,teacher,America,California,Ventura County
+Curt Ingram,guitarsurf@hotmail.com,teacher,America,California,Ventura County
+Donna Zitzelberger,donnazi@roadrunner.com,teacher,America,California,Ventura County
+Josh Powers,jpowlovechild@hotmail.com,teacher,America,California,Ventura County
+Ron Wilson,ronwilson@ronwilsonguitaracademy.com,teacher,America,California,Ventura County
+Eric Maldonado,EricMaldonadoMusic@gmail.com,teacher,America,California,Ventura County
+John Dees,deesmusic@sbcglobal.net,teacher,America,California,Visalia
+Josh Swift,joshswiftguitar@gmail.com,teacher,America,California,Visalia
+Brian Rosh Rocheleau,rosh1826@gmail.com,teacher,America,Colorado,Boulder
+Jason Kirby,jkirby1325@gmail.com,teacher,America,Colorado,Boulder
+Lee Johnson,lee@boulderguitar.com,teacher,America,Colorado,Boulder
+Daniel Luthjohn,GuitarSession@gmail.com,teacher,America,Colorado,Boulder
+Jesse Cryderman,lessons@jessecryderman.com,teacher,America,Colorado,Boulder
+Sam Goldberger,cypherdrummer@gmail.com,teacher,America,Colorado,Boulder
+Thomas Dow,thomas@thehealingtreellc.com,teacher,America,Colorado,Boulder
+Michael Binder,mike@currentpromusic.com,teacher,America,Colorado,Boulder
+Jesse Howard,JesseHProductions@gmail.com,teacher,America,Colorado,Colorado Springs
+Rico Southee,ricosouthee@yahoo.com,teacher,America,Colorado,Colorado Springs
+Eric Squires,therandomstudios@gmail.com,teacher,America,Colorado,Colorado Springs
+Rob Landreth,rnljazz@hotmail.com,teacher,America,Colorado,Colorado Springs
+Bob Bowser,bob@cureforthecommonman.com,teacher,America,Colorado,Colorado Springs
+Charlie Hall,charlie@dayjobmusic.com,teacher,America,Colorado,Colorado Springs
+Sam Cogburn,sd.cogburn@gmail.com,teacher,America,Colorado,Colorado Springs
+Kevin Murten,notebynoteguitar@yahoo.com,teacher,America,Colorado,Colorado Springs
+Matt Ross,mattross500@gmail.com,teacher,America,Colorado,Colorado Springs
+Noel Hernandez,noelhernandezguitar@yahoo.com,teacher,America,Colorado,Denver
+Jon Kim,jks470@hotmail.com,teacher,America,Colorado,Denver
+Ronnie Frosch,raf3@q.com,teacher,America,Colorado,Denver
+Joey Ihly,littlerandyrr5@yahoo.com,teacher,America,Colorado,Denver
+John Taylor,doctorhotlicks@yahoo.com,teacher,America,Colorado,Denver
+Zebra Junction,zebrajunction@aol.com,teacher,America,Colorado,Denver
+Kevin Johnson,kev.johnson77@gmail.com,teacher,America,Colorado,Denver
+Eric Roberts,MusicMagicProd@aol.com,teacher,America,Colorado,Denver
+Joshua Schnabel,jschnabel@gmail.com,teacher,America,Colorado,Denver
+Michael Lancaster,michael@bagpipersinternational.com,teacher,America,Colorado,Denver
+Stephen Monahan,stephen.j.monahan@gmail.com,teacher,America,Colorado,Denver
+Kelsey Marchman,kelsey_marchman@yahoo.com,teacher,America,Colorado,Denver
+Travis Chastain,tchastain2@gmail.com,teacher,America,Colorado,Denver
+Ethan Williams,ethanque@yahoo.com,teacher,America,Colorado,Denver
+William Smith,Bill-450@hotmail.com,teacher,America,Colorado,Denver
+Lyle Long,lylelongguitarist@yahoo.com,teacher,America,Colorado,Denver
+Vince Madison,mail@vincemadison.com,teacher,America,Colorado,Denver
+Vince Cirrincione,vincent@vincesmusic.com,teacher,America,Colorado,Denver
+Bob Croft,rcrofty2k@comcast.net,teacher,America,Colorado,Denver
+John Nieto,JBNMUSIC@comcast.net,teacher,America,Colorado,Denver
+Dave Brown,davebrownsmusic@gmail.com,teacher,America,Colorado,Denver
+Roger Harmon,rogerlharmon@gmail.com,teacher,America,Colorado,Denver
+Jordan Ingram,ijordo@gmail.com,teacher,America,Colorado,Denver
+Chodosh Guitar,michael@chodoshguitar.com,teacher,America,Colorado,Denver
+Dan Polizzi,pzisound@earthlink.net,teacher,America,Colorado,Denver
+Adam Grosso,adam@euforquestra.com,teacher,America,Colorado,Fort Collins
+Chris Fryer,badflyingv69@hotmail.com,teacher,America,Colorado,Fort Collins
+Jim Horvath,jphil38@q.com,teacher,America,Colorado,Fort Collins
+Dustin Hawks,dustin.hawks@gmail.com,teacher,America,Colorado,Fort Collins
+Bryson Dunn,BrysonsLessons@gmail.com,teacher,America,Colorado,Fort Collins
+Dustin Nalley,fdlguitar@gmail.com,teacher,America,Colorado,Fort Collins
+Alan Skowron,alancskowron@gmail.com,teacher,America,Colorado,Fort Collins
+Sonny Theis,sonnytheis@yahoo.com,teacher,America,Colorado,Pueblo
+Bret Capritta,BCGuitarMusic@gmail.com,teacher,America,Colorado,Pueblo
+Jordan Cogswell,Jordancogswell@msn.com,teacher,America,Colorado,Rocky Mountains
+Sylvia Harris,sylvie@norwichguitaracademy.com,teacher,America,Connecticut,Eastern CT
+Steve Cleary,scleary@me.com,teacher,America,Connecticut,Eastern CT
+Scott Daggett,sdaggettguitar@gmail.com,teacher,America,Connecticut,Eastern CT
+Glenn Graves,ggraves208@aol.com,teacher,America,Connecticut,Eastern CT
+Don Parkhurst Jr,Don@rock-lessons.com,teacher,America,Connecticut,Eastern CT
+Charles Domler,charles@charlesmusicschool.com,teacher,America,Connecticut,Eastern CT
+Rory Gordon,roryg@optonline.net,teacher,America,Connecticut,Fairfield County
+Rob Russo,vintage.merchants@snet.net,teacher,America,Connecticut,Fairfield County
+Ken Blinko,kblinko@alumni.berklee.edu,teacher,America,Connecticut,Fairfield County
+Joe Kiernan,jkier73@yahoo.com,teacher,America,Connecticut,Fairfield County
+Michael Chervansky,guitarteach1954@gmail.com,teacher,America,Connecticut,Fairfield County
+Pat Lattin,plattin@berklee.net,teacher,America,Connecticut,Fairfield County
+Damon Yakoubian,damonrain@optonline.net,teacher,America,Connecticut,Fairfield County
+Peter Recce,peterrecceguitar@gmail.com,teacher,America,Connecticut,Fairfield County
+Steve Clarke,sclarke@hopnboprecords.com,teacher,America,Connecticut,Fairfield County
+Keith Goldstein,keithrgoldstein@gmail.com,teacher,America,Connecticut,Fairfield County
+Joe Takacs,Takacs.Joseph@gmail.com,teacher,America,Connecticut,Fairfield County
+Dennis Morrissey,dennis.morrissey@sbcglobal.net,teacher,America,Connecticut,Fairfield County
+Greg Diamond,gregdiamondmusic@gmail.com,teacher,America,Connecticut,Fairfield County
+Damon Wade,dwade277@comcast.net,teacher,America,Connecticut,Fairfield County
+Nick Cutroneo,nick@nickcutroneo.com,teacher,America,Connecticut,Hartford
+Francesco Barone,barone.guitar@gmail.com,teacher,America,Connecticut,Hartford
+Paul Shumsky,pshumsky@gmail.com,teacher,America,Connecticut,Hartford
+Jamie Sherwood,jamiesherwood@cox.net,teacher,America,Connecticut,Hartford
+John Doser,jojodancer@aol.com,teacher,America,Connecticut,Hartford
+Richard Provost,rprovo@sbcglobal.net,teacher,America,Connecticut,Hartford
+Arnold Ewings,sixandfoursound@hotmail.com,teacher,America,Connecticut,Hartford
+Peter Marotto,lifeed_peterm@yahoo.com,teacher,America,Connecticut,Hartford
+Katie Child,child@hartford.edu,teacher,America,Connecticut,Hartford
+Peter Cocolla,peter@guitarstarinstruction.com,teacher,America,Connecticut,Hartford
+Justin Zamm,thelittlemusicstudio@gmail.com,teacher,America,Connecticut,Hartford
+Tim Maynard,info@highlandguitarstudio.com,teacher,America,Connecticut,Hartford
+Bob Porri,info@bobporri.com,teacher,America,Connecticut,Hartford
+Chris Gollnick,csgmediaenterprises@gmail.com,teacher,America,Connecticut,Hartford
+Richie Travers,richard.travers@quinnipiac.edu,teacher,America,Connecticut,New Haven
+Ty Smith,lessons@tyguitar.com,teacher,America,Connecticut,New Haven
+Mark Chmiel,ctguitarlessons@gmail.com,teacher,America,Connecticut,New Haven
+Shawn Persinger,spersinger@gmail.com,teacher,America,Connecticut,New Haven
+Marc Amendola,dolabox@aol.com,teacher,America,Connecticut,New Haven
+Tom Izzo,ctmusiclesson@gmail.com,teacher,America,Connecticut,New Haven
+Steven Gonza,solarsteve@hotmail.com,teacher,America,Connecticut,New Haven
+Ed Diaz,clearlight808@yahoo.com,teacher,America,Connecticut,New Haven
+Mike Schupp,myrealtypro@sbcglobal.net,teacher,America,Connecticut,New Haven
+Don Wunderlee,d.wunderlee@snet.net,teacher,America,Connecticut,New Haven
+James Baird,james@bairdguitar.com,teacher,America,Connecticut,New Haven
+Ken Sacco,ken.sacco@nofretsguitar.com,teacher,America,Connecticut,New Haven
+Sandi Mascola,rockthejam@aol.com,teacher,America,Connecticut,New Haven
+Mike Godette,xdubb505@yahoo.com,teacher,America,Connecticut,New Haven
+John McCarthy,jm@rockhousemethod.com,teacher,America,Connecticut,New Haven
+Joe Bastura,jbastura@gmail.com,teacher,America,Connecticut,New Haven
+Frank Guglielmino,berkshireguitarstudio@yahoo.com,teacher,America,Connecticut,Northwest CT
+Patrick Ryan,pryanmusic@gmail.com,teacher,America,Connecticut,Northwest CT
+Sean Borja,seanborja@me.com,teacher,America,Washington, D.C.,Washington, D.C.
+Karan M,karanmalhotra.inc@gmail.com,teacher,America,Washington, D.C.,Washington, D.C.
+Michelle Webb,noizegirl2002@yahoo.com,teacher,America,Washington, D.C.,Washington, D.C.
+Greggory Hammond,greggsguitarlessons@yahoo.com,teacher,America,Washington, D.C.,Washington, D.C.
+Alex Martin,axmartin@verizon.net,teacher,America,Washington, D.C.,Washington, D.C.
+Ignacio Hernandez,chonahernandez@gmail.com,teacher,America,Washington, D.C.,Washington, D.C.
+Michael Scoglio,michaelscoglio@hotmail.com,teacher,America,Washington, D.C.,Washington, D.C.
+Kris Norris,krisnorrisprojekt@gmail.com,teacher,America,Florida,Daytona Beach
+Alex Mironov,alexmiro@bellsouth.net,teacher,America,Florida,Daytona Beach
+Rick Perry,rick@perryboyz.com,teacher,America,Florida,Daytona Beach
+Eric Baum,ebaummusic@gmail.com,teacher,America,Florida,Daytona Beach
+Adam Hull,comeonthatsdumb@hotmail.com,teacher,America,Florida,Daytona Beach
+Fernando Rio,fernandorio@bellsouth.net,teacher,America,Florida,Daytona Beach
+Ronald Hovanec,portorangeguitar@yahoo.com,teacher,America,Florida,Daytona Beach
+Damian Bonazzoli,info@daytonaguitar.com,teacher,America,Florida,Daytona Beach
+Sam Church,guitarsam68@yahoo.com,teacher,America,Florida,Daytona Beach
+James Mason,masonzstone@yahoo.com,teacher,America,Florida,Daytona Beach
+Douglas Lawes,douglawes@gmail.com,teacher,America,Florida,Florida Keys
+Colgan Bryan,colganbryan@gmail.com,teacher,America,Florida,Fort Lauderdale
+Carlos Ferrer,carlosferrer615@hotmail.com,teacher,America,Florida,Fort Lauderdale
+Dyce Kimura,dyce@dycekimura.com,teacher,America,Florida,Fort Lauderdale
+Jonathan Nick,jonathan.metalhead1156@gmail.com,teacher,America,Florida,Fort Lauderdale
+Steve Parker,guitarbassteacherfl@gmail.com,teacher,America,Florida,Fort Lauderdale
+Katy Peterson,katy@katypeterson.com,teacher,America,Florida,Fort Lauderdale
+Harold Henao,haroldhenao@yahoo.com,teacher,America,Florida,Fort Lauderdale
+
+Thomas Morris
+
+
+
+
+
+
+
+
+
+
+
+
+

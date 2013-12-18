@@ -17,31 +17,33 @@ def index(request):
 	c = RequestContext(request, {
 		'latest_poll_list': 1,
 	})
-
+ 
 	return HttpResponse(t.render(c))
 
 @csrf_exempt
-def save_email(request):
+def retrieve_email(request):
 	print "=" * 100
 	if request.method == "POST":
 		# todo: handle the saving here 
-		name = request.POST.get("name")
-		email = request.POST.get("email")
-		source = request.POST.get("source")
+		source = request.POST.get("type")
 		country = request.POST.get("country")
 		state = request.POST.get("state")
 		city = request.POST.get("city")
+		print "*" * 100
+		q = []
+		if source != "" or country != "" or state != "" or city != "":
+			q = Email.objects.filter(source_type__contains = source,country__contains = country,
+				state__contains = state,city__contains = city)
 
-		Email.objects.all()
-		e = Email(name=name, email=email, source_type=source, country=country, 
-			state=state,city=city,created_date=timezone.now())
-		e.save()
+		a = [obj.email for obj in q]
 
-		result = {"name":name}
+		result = {"result":a}
+		print result
 		x = simplejson.dumps(result)
+		print "34" *20
 		return HttpResponse(x, "application/json")
 
-		print e.email_id
+		print q
 		
 		pass
 	pass

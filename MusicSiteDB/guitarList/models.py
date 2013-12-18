@@ -13,8 +13,13 @@ class Email(models.Model):
 	created_date = models.DateTimeField('date published', auto_now=True)
 
 	def __unicode__(self):
-		return self.email
+		if self.email is None:
+			return "NULL"
+		else:
+			return unicode(self.email) 
+		
 
 	class Meta:
 		db_table = "emails"
 		ordering = ["email_id"]
+
