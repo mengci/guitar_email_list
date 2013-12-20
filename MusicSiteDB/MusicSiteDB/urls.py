@@ -7,7 +7,7 @@ admin.autodiscover()
 urlpatterns = patterns('',
     # Examples:
     url(r'^$', 'guitarList.views.index', name='home'),
-    url(r'^save$', 'guitarList.views.retrieve_email', name='save_email'),
+    url(r'^search$', 'guitarList.views.retrieve_email', name='save_email'),
     # url(r'^MusicSiteDB/', include('MusicSiteDB.foo.urls')),
 
     # Uncomment the admin/doc line below to enable admin documentation:

@@ -6,10 +6,10 @@ $(function() {
     // now it just print 123.
     //var name = $("#name").val();
     //var email = $("#email").val();
-    var type = $("#type").val();
-    var country = $("#country").val();
-    var state = $("#state").val();
-    var city = $("#city").val();
+    var type = $("#type option:selected").val().toLowerCase();
+    var country = $("#country").val().toLowerCase();
+    var state = $("#state").val().toLowerCase();
+    var city = $("#city").val().toLowerCase();
 
   	var data = {
   		"type":type,
@@ -17,27 +17,21 @@ $(function() {
   		"state":state,
   		"city":city,
   	};
-    // var result = {
-    //   "name":name,
-    //   "email":email,
-    //   "type":type,
-    //   "country":country,
-    //   "state":state,
-    //   "city":city,
-    // };
+
+    console.log(data);
   	$.ajax({
   		type: 'POST',
-  		url: '/save',
+  		url: '/search',
   		data: data,
   		dataType:'json',
   		success: function(data){
   			console.log(data);
-  			$('#type').val("");
-  			$('#country').val("");
-  			$('#state').val("");
-  			$('#city').val("");	
   			//$('#save-ack').html(data["name"] + " has been saved");
-        $('#save-ack').html(data["result"]);
+        var emailsArr = data["result"];
+        var emailList = emailsArr.join();
+
+        $('#search-result-ret').html(emailList);
+        $('#search-result-ret').select();
   		},
   		error:function(){},
   	});

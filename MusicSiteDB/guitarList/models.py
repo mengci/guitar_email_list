@@ -5,6 +5,7 @@ from django.db import models
 class Email(models.Model):
 	email_id = models.AutoField(primary_key=True)
 	name = models.CharField(max_length=200)
+	title = models.CharField(max_length=200, null=True)
 	email = models.CharField(max_length=200, null=True)
 	source_type = models.CharField(max_length=200)
 	country = models.CharField(max_length=200)
@@ -17,7 +18,6 @@ class Email(models.Model):
 			return "NULL"
 		else:
 			return unicode(self.email) 
-		
 
 	class Meta:
 		db_table = "emails"

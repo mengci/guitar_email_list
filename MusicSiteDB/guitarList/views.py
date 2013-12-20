@@ -13,7 +13,7 @@ from django.utils import timezone
 import json as simplejson
 
 def index(request):
-	t = loader.get_template('templates/save.html')
+	t = loader.get_template('templates/search.html')
 	c = RequestContext(request, {
 		'latest_poll_list': 1,
 	})
